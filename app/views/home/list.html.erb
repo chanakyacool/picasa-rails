@@ -3,7 +3,7 @@
 <ul>
 	<% @albums.each do |album| %>
 		<li>
-	  		<h3> <%= link_to album['title'], :controller => "home", :action => "list_images", :albumId => album['albumId'] %></h3>	
+	  		<h3> <%= link_to album['title'], :controller => "home", :action => "list_images", :album_id => album['album_id'] %></h3>	
 			<img src="<%= album['thumb'] %>" />
 		</li>
 	<% end %>

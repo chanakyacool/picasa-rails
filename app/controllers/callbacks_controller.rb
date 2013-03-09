@@ -3,13 +3,10 @@ class CallbacksController < Devise::OmniauthCallbacksController
   skip_before_filter :verify_authenticity_token, :only => [:google]
 
   def google_oauth2
-    @user = User.find_for_open_id(request.env["omniauth.auth"], current_user)
-
-    puts "request " + request.env.to_s
+    @user = User.find_for_google(request.env["omniauth.auth"], current_user)
 
     auth_data = request.env["omniauth.auth"]
 
-    puts "TOKEN " + auth_data.credentials.token
     session["token"] = auth_data.credentials.token
     session["devise.google_data"] = auth_data
 

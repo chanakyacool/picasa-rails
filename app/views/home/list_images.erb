@@ -2,16 +2,31 @@
 
 <ul>
 	<% @images.each do |image| %>
-		<li albumId="#{image['albumId']}">
-	  		<h3> 
-	  			<%= link_to image['imageId'], { :controller => "home", 
-	  										   :action => "list_comments", 
-	  										   :albumId => image['albumId'],
-	  										   :imageId => image['imageId'] },
-	  										   :class => 'commentLink',
-	  										   :target =>  "_blank" %>
-	  		</h3>	
-			<img imageId="#{image['imageId']}" src="<%= image['content'] %>" />
+		<li albumId="#{image.album_id}">
+			<section style="width: 45%;">
+		  		<h2>
+		  			<%= image.image_id %>
+		  		</h2>	
+		  		<img imageId="#{image.image_id}" src="<%= image.content %>" />
+	  		</section>
+			<section style="width: 45%; outline:#00FF00 dotted thin;">
+				<h3>Comments</h3>
+				<ul> 
+					<% image.comments.each do |comment| %>
+						<li>
+							<p>Author: <%= comment.name %></p>
+							<p>Content: <%= comment.content %></p>
+						</li>
+					<% end unless image.comments.nil? %>
+				</ul>
+				<%= form_tag("/new-comment/#{image.album_id}/#{image.photo_id}", :method => "post") do %>
+				  <%=  hidden_field_tag 'album_id', image.album_id %>
+				  <%=  hidden_field_tag 'photo_id', image.photo_id  %>
+				  <%= label_tag(:q, "Enter comment:") %>
+				  <%= text_area_tag(:comment_content) %>
+				  <%= submit_tag("New") %>
+				<% end %>
+			</section>
 		</li>
 	<% end %>
 </ul>
