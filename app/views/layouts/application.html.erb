@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>OauthTest</title>
+  <title>Picasa Rails</title>
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
@@ -12,13 +12,14 @@
 		<%= value %>
 	</div>
 <% end %>
-<h1><%= link_to 'Top Gun', root_path %></h1>
+<h1><%= link_to 'Picasa Rails', root_path %></h1>
 <nav>
 	<% if user_signed_in? %>
 		<%= current_user.email %>
 		<%= link_to 'Sign out', destroy_user_session_path, :method => :delete %>
+		<%= link_to 'List albums', "/list" %>
 	<% else %>
-		<%= link_to 'Sign in', new_user_session_path %>
+		<%= link_to 'Sign in', "/users/auth/google_oauth2" %>
 	<% end %>
 </nav>
 <%= yield %>
