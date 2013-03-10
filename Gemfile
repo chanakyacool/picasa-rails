@@ -11,6 +11,7 @@ gem 'sqlite3'
 gem 'rest-client'
 gem 'hpricot'
 gem 'xml-simple'
+gem "rspec-rails"
 
 
 # Gems used only for assets and not required

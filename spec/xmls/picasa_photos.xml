@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">
+    <id>https://picasaweb.google.com/data/feed/api/user/raphaelmiranda/albumid/5681617398801456529</id>
+    <updated>2013-03-09T19:43:15.813Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album" />
+    <title type="text">Rework</title>
+    <subtitle type="text" />
+    <rights type="text">public</rights>
+    <icon>https://lh5.googleusercontent.com/-VTa9yoP2Vq8/Ttko6_U9XZE/AAAAAAAAEFk/WGLzixZZJUo/s160-c/Rework02.jpg</icon>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529" />
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02" />
+    <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://picasaweb.google.com/s/c/bin/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F116935077917790576038%2Falbumid%2F5681617398801456529%3Falt%3Drss" />
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529" />
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529?start-index=1&amp;max-results=1000" />
+    <author>
+        <name>Raphael Miranda</name>
+        <uri>https://picasaweb.google.com/116935077917790576038</uri>
+    </author>
+    <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+    <openSearch:totalResults>8</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+    <gphoto:id>5681617398801456529</gphoto:id>
+    <gphoto:name>Rework02</gphoto:name>
+    <gphoto:location />
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1322854635000</gphoto:timestamp>
+    <gphoto:numphotos>8</gphoto:numphotos>
+    <gphoto:user>116935077917790576038</gphoto:user>
+    <gphoto:nickname>Raphael Miranda</gphoto:nickname>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:allowPrints>true</gphoto:allowPrints>
+    <gphoto:allowDownloads>true</gphoto:allowDownloads>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617402461862642</id>
+        <published>2011-12-02T19:37:16.000Z</published>
+        <updated>2013-03-09T19:37:21.011Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo" />
+        <title type="text">PRODUCTIVITY.png</title>
+        <summary type="text" />
+        <content type="image/png" src="https://lh4.googleusercontent.com/-WoH1ydasEHw/Ttko7M9quvI/AAAAAAAAEEc/4jATgy_qSiw/PRODUCTIVITY.png" />
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617402461862642" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02#5681617402461862642" />
+        <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QREFOQKsR6lZb506FquZPNMTjNZETYmyPJy0liipFm0" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617402461862642" />
+        <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529&amp;iid=5681617402461862642" />
+        <gphoto:id>5681617402461862642</gphoto:id>
+        <gphoto:version>15</gphoto:version>
+        <gphoto:position>0.0</gphoto:position>
+        <gphoto:albumid>5681617398801456529</gphoto:albumid>
+        <gphoto:access>public</gphoto:access>
+        <gphoto:width>1212</gphoto:width>
+        <gphoto:height>627</gphoto:height>
+        <gphoto:size>77795</gphoto:size>
+        <gphoto:client>es-sharebox-create-album</gphoto:client>
+        <gphoto:checksum />
+        <gphoto:timestamp>1322854636000</gphoto:timestamp>
+        <gphoto:imageVersion>4167</gphoto:imageVersion>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>6</gphoto:commentCount>
+        <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+        <exif:tags>
+            <exif:imageUniqueID>680338eb721f3083adc7863898a74ef0</exif:imageUniqueID>
+        </exif:tags>
+        <media:group>
+            <media:content url="https://lh4.googleusercontent.com/-WoH1ydasEHw/Ttko7M9quvI/AAAAAAAAEEc/4jATgy_qSiw/PRODUCTIVITY.png" height="265" width="512" type="image/png" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh4.googleusercontent.com/-WoH1ydasEHw/Ttko7M9quvI/AAAAAAAAEEc/4jATgy_qSiw/s72/PRODUCTIVITY.png" height="38" width="72" />
+            <media:thumbnail url="https://lh4.googleusercontent.com/-WoH1ydasEHw/Ttko7M9quvI/AAAAAAAAEEc/4jATgy_qSiw/s144/PRODUCTIVITY.png" height="75" width="144" />
+            <media:thumbnail url="https://lh4.googleusercontent.com/-WoH1ydasEHw/Ttko7M9quvI/AAAAAAAAEEc/4jATgy_qSiw/s288/PRODUCTIVITY.png" height="149" width="288" />
+            <media:title type="plain">PRODUCTIVITY.png</media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617440964245618</id>
+        <published>2011-12-02T19:37:25.000Z</published>
+        <updated>2013-03-09T19:43:15.813Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo" />
+        <title type="text">COMPETITORS.png</title>
+        <summary type="text" />
+        <content type="image/png" src="https://lh5.googleusercontent.com/-i-0ogQTjj9s/Ttko9cZWeHI/AAAAAAAAEEk/DYWBjtow3kE/COMPETITORS.png" />
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617440964245618" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02#5681617440964245618" />
+        <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QHD0dCnplpd-rQzNE89hVNMTjNZETYmyPJy0liipFm0" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617440964245618" />
+        <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529&amp;iid=5681617440964245618" />
+        <gphoto:id>5681617440964245618</gphoto:id>
+        <gphoto:version>15</gphoto:version>
+        <gphoto:position>1.0</gphoto:position>
+        <gphoto:albumid>5681617398801456529</gphoto:albumid>
+        <gphoto:access>public</gphoto:access>
+        <gphoto:width>1204</gphoto:width>
+        <gphoto:height>626</gphoto:height>
+        <gphoto:size>53256</gphoto:size>
+        <gphoto:client>es-sharebox-create-album</gphoto:client>
+        <gphoto:checksum />
+        <gphoto:timestamp>1322854645000</gphoto:timestamp>
+        <gphoto:imageVersion>4169</gphoto:imageVersion>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>6</gphoto:commentCount>
+        <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+        <exif:tags>
+            <exif:imageUniqueID>dc6eba576ac169334b0b04ccaa4fdf67</exif:imageUniqueID>
+        </exif:tags>
+        <media:group>
+            <media:content url="https://lh5.googleusercontent.com/-i-0ogQTjj9s/Ttko9cZWeHI/AAAAAAAAEEk/DYWBjtow3kE/COMPETITORS.png" height="267" width="512" type="image/png" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-i-0ogQTjj9s/Ttko9cZWeHI/AAAAAAAAEEk/DYWBjtow3kE/s72/COMPETITORS.png" height="38" width="72" />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-i-0ogQTjj9s/Ttko9cZWeHI/AAAAAAAAEEk/DYWBjtow3kE/s144/COMPETITORS.png" height="75" width="144" />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-i-0ogQTjj9s/Ttko9cZWeHI/AAAAAAAAEEk/DYWBjtow3kE/s288/COMPETITORS.png" height="150" width="288" />
+            <media:title type="plain">COMPETITORS.png</media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617438639911650</id>
+        <published>2011-12-02T19:37:25.000Z</published>
+        <updated>2011-12-03T14:48:44.307Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo" />
+        <title type="text">CULTURE.png</title>
+        <summary type="text" />
+        <content type="image/png" src="https://lh6.googleusercontent.com/-ZKnOpzNJ6dA/Ttko9TvL8uI/AAAAAAAAEEo/ai70PK4qqLY/CULTURE.png" />
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617438639911650" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02#5681617438639911650" />
+        <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Wn04z6HTQDxv2ayf3-xETdMTjNZETYmyPJy0liipFm0" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617438639911650" />
+        <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529&amp;iid=5681617438639911650" />
+        <gphoto:id>5681617438639911650</gphoto:id>
+        <gphoto:version>3</gphoto:version>
+        <gphoto:position>2.0</gphoto:position>
+        <gphoto:albumid>5681617398801456529</gphoto:albumid>
+        <gphoto:access>public</gphoto:access>
+        <gphoto:width>1198</gphoto:width>
+        <gphoto:height>798</gphoto:height>
+        <gphoto:size>94241</gphoto:size>
+        <gphoto:client>es-sharebox-create-album</gphoto:client>
+        <gphoto:checksum />
+        <gphoto:timestamp>1322854645000</gphoto:timestamp>
+        <gphoto:imageVersion>4170</gphoto:imageVersion>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+        <exif:tags>
+            <exif:imageUniqueID>4c901e465ab1efc40b9977fb915da995</exif:imageUniqueID>
+        </exif:tags>
+        <media:group>
+            <media:content url="https://lh6.googleusercontent.com/-ZKnOpzNJ6dA/Ttko9TvL8uI/AAAAAAAAEEo/ai70PK4qqLY/CULTURE.png" height="342" width="512" type="image/png" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh6.googleusercontent.com/-ZKnOpzNJ6dA/Ttko9TvL8uI/AAAAAAAAEEo/ai70PK4qqLY/s72/CULTURE.png" height="48" width="72" />
+            <media:thumbnail url="https://lh6.googleusercontent.com/-ZKnOpzNJ6dA/Ttko9TvL8uI/AAAAAAAAEEo/ai70PK4qqLY/s144/CULTURE.png" height="96" width="144" />
+            <media:thumbnail url="https://lh6.googleusercontent.com/-ZKnOpzNJ6dA/Ttko9TvL8uI/AAAAAAAAEEo/ai70PK4qqLY/s288/CULTURE.png" height="192" width="288" />
+            <media:title type="plain">CULTURE.png</media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617470388303170</id>
+        <published>2011-12-02T19:37:32.000Z</published>
+        <updated>2011-12-03T14:48:44.824Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo" />
+        <title type="text">DAMAGECONTROL.png</title>
+        <summary type="text" />
+        <content type="image/png" src="https://lh3.googleusercontent.com/-0qSvbbnVQ4k/Ttko_KAl9UI/AAAAAAAAEFU/1zYG6VmxW-A/DAMAGECONTROL.png" />
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617470388303170" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02#5681617470388303170" />
+        <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/F8-2tke2PS-CvOCCHeR43dMTjNZETYmyPJy0liipFm0" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617470388303170" />
+        <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529&amp;iid=5681617470388303170" />
+        <gphoto:id>5681617470388303170</gphoto:id>
+        <gphoto:version>3</gphoto:version>
+        <gphoto:position>3.0</gphoto:position>
+        <gphoto:albumid>5681617398801456529</gphoto:albumid>
+        <gphoto:access>public</gphoto:access>
+        <gphoto:width>1212</gphoto:width>
+        <gphoto:height>681</gphoto:height>
+        <gphoto:size>73537</gphoto:size>
+        <gphoto:client>es-sharebox-create-album</gphoto:client>
+        <gphoto:checksum />
+        <gphoto:timestamp>1322854652000</gphoto:timestamp>
+        <gphoto:imageVersion>4181</gphoto:imageVersion>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+        <exif:tags>
+            <exif:imageUniqueID>7c522cad38e4394fe6018d8a3fe831d3</exif:imageUniqueID>
+        </exif:tags>
+        <media:group>
+            <media:content url="https://lh3.googleusercontent.com/-0qSvbbnVQ4k/Ttko_KAl9UI/AAAAAAAAEFU/1zYG6VmxW-A/DAMAGECONTROL.png" height="288" width="512" type="image/png" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh3.googleusercontent.com/-0qSvbbnVQ4k/Ttko_KAl9UI/AAAAAAAAEFU/1zYG6VmxW-A/s72/DAMAGECONTROL.png" height="41" width="72" />
+            <media:thumbnail url="https://lh3.googleusercontent.com/-0qSvbbnVQ4k/Ttko_KAl9UI/AAAAAAAAEFU/1zYG6VmxW-A/s144/DAMAGECONTROL.png" height="81" width="144" />
+            <media:thumbnail url="https://lh3.googleusercontent.com/-0qSvbbnVQ4k/Ttko_KAl9UI/AAAAAAAAEFU/1zYG6VmxW-A/s288/DAMAGECONTROL.png" height="162" width="288" />
+            <media:title type="plain">DAMAGECONTROL.png</media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617450017560738</id>
+        <published>2011-12-02T19:37:27.000Z</published>
+        <updated>2011-12-03T14:48:39.482Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo" />
+        <title type="text">EVOLUTION.png</title>
+        <summary type="text" />
+        <content type="image/png" src="https://lh6.googleusercontent.com/-tlBuyGZq_HQ/Ttko9-H1GKI/AAAAAAAAEE0/pluFMK9Ebgo/EVOLUTION.png" />
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617450017560738" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02#5681617450017560738" />
+        <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/cRLLqfSrhEMOy4zolSq5-tMTjNZETYmyPJy0liipFm0" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617450017560738" />
+        <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529&amp;iid=5681617450017560738" />
+        <gphoto:id>5681617450017560738</gphoto:id>
+        <gphoto:version>3</gphoto:version>
+        <gphoto:position>4.0</gphoto:position>
+        <gphoto:albumid>5681617398801456529</gphoto:albumid>
+        <gphoto:access>public</gphoto:access>
+        <gphoto:width>1212</gphoto:width>
+        <gphoto:height>598</gphoto:height>
+        <gphoto:size>54049</gphoto:size>
+        <gphoto:client>es-sharebox-create-album</gphoto:client>
+        <gphoto:checksum />
+        <gphoto:timestamp>1322854647000</gphoto:timestamp>
+        <gphoto:imageVersion>4173</gphoto:imageVersion>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+        <exif:tags>
+            <exif:imageUniqueID>a4ffbdde627c93711c8b372d34bb9e96</exif:imageUniqueID>
+        </exif:tags>
+        <media:group>
+            <media:content url="https://lh6.googleusercontent.com/-tlBuyGZq_HQ/Ttko9-H1GKI/AAAAAAAAEE0/pluFMK9Ebgo/EVOLUTION.png" height="253" width="512" type="image/png" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh6.googleusercontent.com/-tlBuyGZq_HQ/Ttko9-H1GKI/AAAAAAAAEE0/pluFMK9Ebgo/s72/EVOLUTION.png" height="36" width="72" />
+            <media:thumbnail url="https://lh6.googleusercontent.com/-tlBuyGZq_HQ/Ttko9-H1GKI/AAAAAAAAEE0/pluFMK9Ebgo/s144/EVOLUTION.png" height="72" width="144" />
+            <media:thumbnail url="https://lh6.googleusercontent.com/-tlBuyGZq_HQ/Ttko9-H1GKI/AAAAAAAAEE0/pluFMK9Ebgo/s288/EVOLUTION.png" height="143" width="288" />
+            <media:title type="plain">EVOLUTION.png</media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617453083113378</id>
+        <published>2011-12-02T19:37:28.000Z</published>
+        <updated>2011-12-03T14:48:37.359Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo" />
+        <title type="text">GO.png</title>
+        <summary type="text" />
+        <content type="image/png" src="https://lh3.googleusercontent.com/-YeXA39-n7CE/Ttko-Jitt6I/AAAAAAAAEE4/ZMcQmOI1WoI/GO.png" />
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617453083113378" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02#5681617453083113378" />
+        <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/SXwhGcypFybuQJhTMsGJ9NMTjNZETYmyPJy0liipFm0" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617453083113378" />
+        <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529&amp;iid=5681617453083113378" />
+        <gphoto:id>5681617453083113378</gphoto:id>
+        <gphoto:version>5</gphoto:version>
+        <gphoto:position>5.0</gphoto:position>
+        <gphoto:albumid>5681617398801456529</gphoto:albumid>
+        <gphoto:access>public</gphoto:access>
+        <gphoto:width>1216</gphoto:width>
+        <gphoto:height>658</gphoto:height>
+        <gphoto:size>101295</gphoto:size>
+        <gphoto:client>es-sharebox-create-album</gphoto:client>
+        <gphoto:checksum />
+        <gphoto:timestamp>1322854648000</gphoto:timestamp>
+        <gphoto:imageVersion>4174</gphoto:imageVersion>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+        <exif:tags>
+            <exif:imageUniqueID>be30396cf846d436b5d5ba49ca5e15ed</exif:imageUniqueID>
+        </exif:tags>
+        <media:group>
+            <media:content url="https://lh3.googleusercontent.com/-YeXA39-n7CE/Ttko-Jitt6I/AAAAAAAAEE4/ZMcQmOI1WoI/GO.png" height="278" width="512" type="image/png" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh3.googleusercontent.com/-YeXA39-n7CE/Ttko-Jitt6I/AAAAAAAAEE4/ZMcQmOI1WoI/s72/GO.png" height="39" width="72" />
+            <media:thumbnail url="https://lh3.googleusercontent.com/-YeXA39-n7CE/Ttko-Jitt6I/AAAAAAAAEE4/ZMcQmOI1WoI/s144/GO.png" height="78" width="144" />
+            <media:thumbnail url="https://lh3.googleusercontent.com/-YeXA39-n7CE/Ttko-Jitt6I/AAAAAAAAEE4/ZMcQmOI1WoI/s288/GO.png" height="156" width="288" />
+            <media:title type="plain">GO.png</media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617461364496802</id>
+        <published>2011-12-02T19:37:30.000Z</published>
+        <updated>2011-12-03T14:48:35.332Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo" />
+        <title type="text">PROMOTION.png</title>
+        <summary type="text" />
+        <content type="image/png" src="https://lh5.googleusercontent.com/-gaKdTgfuCm4/Ttko-oZJmaI/AAAAAAAAEFI/w-EUYS9b3FQ/PROMOTION.png" />
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617461364496802" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02#5681617461364496802" />
+        <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/aK0Jf-MeaeM76cfusFj5K9MTjNZETYmyPJy0liipFm0" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617461364496802" />
+        <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529&amp;iid=5681617461364496802" />
+        <gphoto:id>5681617461364496802</gphoto:id>
+        <gphoto:version>3</gphoto:version>
+        <gphoto:position>6.0</gphoto:position>
+        <gphoto:albumid>5681617398801456529</gphoto:albumid>
+        <gphoto:access>public</gphoto:access>
+        <gphoto:width>1205</gphoto:width>
+        <gphoto:height>496</gphoto:height>
+        <gphoto:size>84446</gphoto:size>
+        <gphoto:client>es-sharebox-create-album</gphoto:client>
+        <gphoto:checksum />
+        <gphoto:timestamp>1322854650000</gphoto:timestamp>
+        <gphoto:imageVersion>4178</gphoto:imageVersion>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+        <exif:tags>
+            <exif:imageUniqueID>390c0c1792410734e64b70d1eeba9761</exif:imageUniqueID>
+        </exif:tags>
+        <media:group>
+            <media:content url="https://lh5.googleusercontent.com/-gaKdTgfuCm4/Ttko-oZJmaI/AAAAAAAAEFI/w-EUYS9b3FQ/PROMOTION.png" height="211" width="512" type="image/png" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-gaKdTgfuCm4/Ttko-oZJmaI/AAAAAAAAEFI/w-EUYS9b3FQ/s72/PROMOTION.png" height="30" width="72" />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-gaKdTgfuCm4/Ttko-oZJmaI/AAAAAAAAEFI/w-EUYS9b3FQ/s144/PROMOTION.png" height="60" width="144" />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-gaKdTgfuCm4/Ttko-oZJmaI/AAAAAAAAEFI/w-EUYS9b3FQ/s288/PROMOTION.png" height="119" width="288" />
+            <media:title type="plain">PROMOTION.png</media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617459431205026</id>
+        <published>2011-12-02T19:37:30.000Z</published>
+        <updated>2011-12-03T14:48:32.864Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo" />
+        <title type="text">TAKEDOWNS.png</title>
+        <summary type="text" />
+        <content type="image/png" src="https://lh5.googleusercontent.com/-xTzqB9AJfGU/Ttko-hMN6KI/AAAAAAAAEFE/V6ZG9of79KQ/TAKEDOWNS.png" />
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617459431205026" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/Rework02#5681617459431205026" />
+        <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JYiYD7YCb9p2E3oy-oRoTdMTjNZETYmyPJy0liipFm0" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5681617398801456529/photoid/5681617459431205026" />
+        <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116935077917790576038&amp;aid=5681617398801456529&amp;iid=5681617459431205026" />
+        <gphoto:id>5681617459431205026</gphoto:id>
+        <gphoto:version>3</gphoto:version>
+        <gphoto:position>7.0</gphoto:position>
+        <gphoto:albumid>5681617398801456529</gphoto:albumid>
+        <gphoto:access>public</gphoto:access>
+        <gphoto:width>1214</gphoto:width>
+        <gphoto:height>606</gphoto:height>
+        <gphoto:size>59297</gphoto:size>
+        <gphoto:client>es-sharebox-create-album</gphoto:client>
+        <gphoto:checksum />
+        <gphoto:timestamp>1322854650000</gphoto:timestamp>
+        <gphoto:imageVersion>4177</gphoto:imageVersion>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+        <exif:tags>
+            <exif:imageUniqueID>2269dbc3d1f6c52d5ad6db473464a9a2</exif:imageUniqueID>
+        </exif:tags>
+        <media:group>
+            <media:content url="https://lh5.googleusercontent.com/-xTzqB9AJfGU/Ttko-hMN6KI/AAAAAAAAEFE/V6ZG9of79KQ/TAKEDOWNS.png" height="256" width="512" type="image/png" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-xTzqB9AJfGU/Ttko-hMN6KI/AAAAAAAAEFE/V6ZG9of79KQ/s72/TAKEDOWNS.png" height="36" width="72" />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-xTzqB9AJfGU/Ttko-hMN6KI/AAAAAAAAEFE/V6ZG9of79KQ/s144/TAKEDOWNS.png" height="72" width="144" />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-xTzqB9AJfGU/Ttko-hMN6KI/AAAAAAAAEFE/V6ZG9of79KQ/s288/TAKEDOWNS.png" height="144" width="288" />
+            <media:title type="plain">TAKEDOWNS.png</media:title>
+        </media:group>
+    </entry>
+</feed>

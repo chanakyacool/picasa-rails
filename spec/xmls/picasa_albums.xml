@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gml="http://www.opengis.net/gml" xmlns:georss="http://www.georss.org/georss">
+    <id>https://picasaweb.google.com/data/feed/api/user/raphaelmiranda</id>
+    <updated>2013-03-09T20:41:24.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user" />
+    <title type="text">116935077917790576038</title>
+    <subtitle type="text" />
+    <icon>https://lh5.googleusercontent.com/-GvZLQ6xKPX8/AAAAAAAAAAI/AAAAAAAAAAA/3kTIp7kKFFw/s64-c/116935077917790576038.jpg</icon>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038" />
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038" />
+    <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://picasaweb.google.com/s/c/bin/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F116935077917790576038%3Falt%3Drss" />
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038?start-index=1&amp;max-results=1000" />
+    <author>
+        <name>Raphael Miranda</name>
+        <uri>https://picasaweb.google.com/116935077917790576038</uri>
+    </author>
+    <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+    <openSearch:totalResults>39</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+    <gphoto:user>116935077917790576038</gphoto:user>
+    <gphoto:nickname>Raphael Miranda</gphoto:nickname>
+    <gphoto:thumbnail>https://lh5.googleusercontent.com/-GvZLQ6xKPX8/AAAAAAAAAAI/AAAAAAAAAAA/3kTIp7kKFFw/s64-c/116935077917790576038.jpg</gphoto:thumbnail>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5624490059999362961</id>
+        <published>2012-11-07T21:30:00.000Z</published>
+        <updated>2012-11-07T21:30:11.633Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album" />
+        <title type="text">Profile Photos</title>
+        <summary type="text">Album for profile photos</summary>
+        <rights type="text">public</rights>
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5624490059999362961" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/ProfilePhotos" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5624490059999362961" />
+        <author>
+            <name>Raphael Miranda</name>
+            <uri>https://picasaweb.google.com/116935077917790576038</uri>
+        </author>
+        <gphoto:id>5624490059999362961</gphoto:id>
+        <gphoto:name>ProfilePhotos</gphoto:name>
+        <gphoto:location />
+        <gphoto:access>public</gphoto:access>
+        <gphoto:timestamp>1352323800000</gphoto:timestamp>
+        <gphoto:numphotos>2</gphoto:numphotos>
+        <gphoto:user>116935077917790576038</gphoto:user>
+        <gphoto:nickname>Raphael Miranda</gphoto:nickname>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+        <media:group>
+            <media:content url="https://lh4.googleusercontent.com/-q8pzZ7qyaB0/Tg4z6OT6P5E/AAAAAAAAErQ/lfILM1Uv9SE/ProfilePhotos.jpg" type="image/jpeg" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh4.googleusercontent.com/-q8pzZ7qyaB0/Tg4z6OT6P5E/AAAAAAAAErQ/lfILM1Uv9SE/s160-c/ProfilePhotos.jpg" height="160" width="160" />
+            <media:title type="plain">Profile Photos</media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5748428264338583329</id>
+        <published>2012-05-30T20:37:32.000Z</published>
+        <updated>2012-05-30T20:47:35.778Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album" />
+        <title type="text">my desktop </title>
+        <summary type="text" />
+        <rights type="text">public</rights>
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5748428264338583329" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/MyDesktop" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5748428264338583329" />
+        <author>
+            <name>Raphael Miranda</name>
+            <uri>https://picasaweb.google.com/116935077917790576038</uri>
+        </author>
+        <gphoto:id>5748428264338583329</gphoto:id>
+        <gphoto:name>MyDesktop</gphoto:name>
+        <gphoto:location />
+        <gphoto:access>public</gphoto:access>
+        <gphoto:timestamp>1338410252000</gphoto:timestamp>
+        <gphoto:numphotos>1</gphoto:numphotos>
+        <gphoto:user>116935077917790576038</gphoto:user>
+        <gphoto:nickname>Raphael Miranda</gphoto:nickname>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <media:group>
+            <media:content url="https://lh5.googleusercontent.com/-fvEPaiV60J4/T8aFDMi3byE/AAAAAAAAEg4/J20NK8xaAiQ/MyDesktop.jpg" type="image/jpeg" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-fvEPaiV60J4/T8aFDMi3byE/AAAAAAAAEg4/J20NK8xaAiQ/s160-c/MyDesktop.jpg" height="160" width="160" />
+            <media:title type="plain">my desktop </media:title>
+        </media:group>
+    </entry>
+    <entry>
+        <id>https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5737211231343246417</id>
+        <published>2012-04-30T15:09:43.000Z</published>
+        <updated>2012-04-30T15:20:24.408Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album" />
+        <title type="text">30/04/2012</title>
+        <summary type="text" />
+        <rights type="text">public</rights>
+        <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116935077917790576038/albumid/5737211231343246417" />
+        <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116935077917790576038/30042012" />
+        <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116935077917790576038/albumid/5737211231343246417" />
+        <author>
+            <name>Raphael Miranda</name>
+            <uri>https://picasaweb.google.com/116935077917790576038</uri>
+        </author>
+        <gphoto:id>5737211231343246417</gphoto:id>
+        <gphoto:name>30042012</gphoto:name>
+        <gphoto:location />
+        <gphoto:access>public</gphoto:access>
+        <gphoto:timestamp>1335798583000</gphoto:timestamp>
+        <gphoto:numphotos>1</gphoto:numphotos>
+        <gphoto:user>116935077917790576038</gphoto:user>
+        <gphoto:nickname>Raphael Miranda</gphoto:nickname>
+        <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+        <gphoto:commentCount>0</gphoto:commentCount>
+        <gphoto:albumType>Buzz</gphoto:albumType>
+        <media:group>
+            <media:content url="https://lh5.googleusercontent.com/-5vzvwPpxJxw/T56rN8WYfFE/AAAAAAAAEbo/-5ss05M42zQ/30042012.jpg" type="image/jpeg" medium="image" />
+            <media:credit>Raphael Miranda</media:credit>
+            <media:description type="plain" />
+            <media:keywords />
+            <media:thumbnail url="https://lh5.googleusercontent.com/-5vzvwPpxJxw/T56rN8WYfFE/AAAAAAAAEbo/-5ss05M42zQ/s160-c/30042012.jpg" height="160" width="160" />
+            <media:title type="plain">30/04/2012</media:title>
+        </media:group>
+    </entry>
+</feed>

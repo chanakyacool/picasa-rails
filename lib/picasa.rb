@@ -8,6 +8,7 @@ class Picasa
   def self.list_albums(options)
 
     xml = RestClient.get "https://picasaweb.google.com/data/feed/api/user/#{options[:user_id]}"
+
     parsed_document = Hpricot.parse(xml)
 
     albums = []
@@ -37,7 +38,7 @@ class Picasa
 
   def self.list_comments(options)
     xml = RestClient.get "https://picasaweb.google.com/data/feed/api/user/#{options[:user_id]}/albumid/#{options[:album_id]}/photoid/#{options[:photo_id]}?kind=comment"
-    
+
     parsed_document = Hpricot.parse(xml)
 
     comments = []
