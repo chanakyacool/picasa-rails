@@ -25,6 +25,7 @@ class Picasa
   def self.list_photos(options)
     album_id = options[:album_id]
     xml = RestClient.get "https://picasaweb.google.com/data/feed/api/user/#{options[:user_id]}/albumid/#{album_id}"
+
     parsed_document = Hpricot.parse(xml)
       
     images  = []
@@ -67,21 +68,12 @@ class Picasa
 end
 
 class Comment < OpenStruct
-    @content
-    @author
 end
 
 class Photo < OpenStruct
-    @album_id
-    @photo_id
-    @src
-    @comments
 end
 
 class Album < OpenStruct
-    @album_id
-    @title
-    @thumb
 end
 
 
